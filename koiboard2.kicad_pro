@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "keyboard.kicad_pro",
+    "filename": "koiboard2.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -524,9 +524,9 @@
       "plot": "C:/Users/tamas/Desktop/keyboard/x/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "",
+      "step": "koiboard2.step",
       "svg": "",
-      "vrml": ""
+      "vrml": "koiboard2.wrl"
     },
     "page_layout_descr_file": ""
   },
