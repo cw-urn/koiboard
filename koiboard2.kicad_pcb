@@ -3036,7 +3036,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a9fdefb0-b8a7-421e-a0d5-e618338aab4f")
+			(uuid "06827205-afdb-4c17-827c-4114db474e8a")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -3046,7 +3046,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a9fdefb0-b8a7-421e-a0d5-e618338aab4f")
+			(uuid "64a37527-735f-4da0-bf60-a58e0ce16d37")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -3065,7 +3065,7 @@
 			(net 36 "Net-(D29-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "eece6205-dd56-4a63-af91-52b31aef30e1")
+			(uuid "c747b6db-e88a-4bfe-90de-311105a6986e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -3077,7 +3077,7 @@
 			(net 36 "Net-(D29-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "eece6205-dd56-4a63-af91-52b31aef30e1")
+			(uuid "17d010f3-a85e-47ba-bc41-296f609bfa1f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -3822,7 +3822,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "08ac0ea9-4c6e-4c8f-933a-2ca7f992be87")
+			(uuid "3d890681-a8eb-4054-82ca-6ef29c2476ed")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -3832,7 +3832,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "08ac0ea9-4c6e-4c8f-933a-2ca7f992be87")
+			(uuid "6200a874-8fff-49fc-8c98-2a57d81b2fec")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -3851,7 +3851,7 @@
 			(net 19 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2f3603e9-2cbf-4d9d-966e-5b2972f1962e")
+			(uuid "0f114275-5cc3-44f9-99e0-8c5ccb210fcc")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -3863,7 +3863,7 @@
 			(net 19 "Net-(D12-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2f3603e9-2cbf-4d9d-966e-5b2972f1962e")
+			(uuid "30bd13df-a11f-4afd-b18f-be282654fdd6")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -4608,7 +4608,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f8b0744b-0e8a-4671-8f08-b726bc098a50")
+			(uuid "4a0ed15b-710a-4b21-980b-9e65eb89d623")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -4618,7 +4618,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f8b0744b-0e8a-4671-8f08-b726bc098a50")
+			(uuid "2ae7cc91-23d2-40a9-bfbe-1e6dd94bfdd8")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -4637,7 +4637,7 @@
 			(net 107 "Net-(D48-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "cc11ce8a-0745-4ee4-8ec8-ac89d98ea8df")
+			(uuid "0d6bae8f-a3b2-42ba-a2b9-e94e24189989")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -4649,7 +4649,7 @@
 			(net 107 "Net-(D48-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "cc11ce8a-0745-4ee4-8ec8-ac89d98ea8df")
+			(uuid "33098478-050a-4ebd-bd28-84af9e5e9c9b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -5540,7 +5540,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0bc47fd6-4ca3-4636-84d0-b021ce7b497a")
+			(uuid "5ac6105f-30c9-4375-9a38-7eadb074643d")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -5550,7 +5550,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0bc47fd6-4ca3-4636-84d0-b021ce7b497a")
+			(uuid "4b67b0b2-590e-4dac-bd79-a0fa14abf612")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -5569,7 +5569,7 @@
 			(net 20 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "05761026-f5c7-4a7a-acd6-4bcbe5cb87bc")
+			(uuid "ebacc41d-b1ad-4951-bb62-51c291e488f6")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -5581,7 +5581,7 @@
 			(net 20 "Net-(D13-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "05761026-f5c7-4a7a-acd6-4bcbe5cb87bc")
+			(uuid "2bb2f095-0077-415c-a785-e4a3db7a0f58")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -6472,7 +6472,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9a0ea7f7-ded4-4c7e-a81e-73ba9b93bc7c")
+			(uuid "53c9e3ae-ba7b-4c78-9d6f-ffcc160e32f7")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -6482,7 +6482,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "9a0ea7f7-ded4-4c7e-a81e-73ba9b93bc7c")
+			(uuid "0cd2fdce-388f-4288-bf71-06298f1be2a0")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -6501,7 +6501,7 @@
 			(net 13 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "179acc96-dbe1-4c47-a503-6ad07eda66eb")
+			(uuid "ec5653cc-9e47-4d15-b880-7e21bb705f43")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -6513,7 +6513,7 @@
 			(net 13 "Net-(D6-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "179acc96-dbe1-4c47-a503-6ad07eda66eb")
+			(uuid "c08fc722-3e85-447c-8e70-f9b0378b2346")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -7774,7 +7774,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "93b86c16-6035-4d9f-910e-9a65bcda9cd3")
+			(uuid "adb0046c-e10a-4f46-9b5f-0b8350efe0c6")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -7784,7 +7784,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "93b86c16-6035-4d9f-910e-9a65bcda9cd3")
+			(uuid "62e457d6-0f9c-4c51-bebe-14b2ce013334")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -7803,7 +7803,7 @@
 			(net 39 "Net-(D32-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1eb5ae4a-fde1-448d-a8e8-b4c4cc330abf")
+			(uuid "f6ee7ca1-8c09-4615-acd5-74445e5b4da9")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -7815,7 +7815,7 @@
 			(net 39 "Net-(D32-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1eb5ae4a-fde1-448d-a8e8-b4c4cc330abf")
+			(uuid "09ceaca8-5da1-461f-8200-f2cdffeb4f08")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -8560,7 +8560,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "830403b0-ab40-404c-af89-8e86be67d207")
+			(uuid "ad8b8557-031f-450d-93a9-f295f28c8ab0")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -8570,7 +8570,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "830403b0-ab40-404c-af89-8e86be67d207")
+			(uuid "2911edb9-e549-46e6-ad06-fc81119d5ac0")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -8589,7 +8589,7 @@
 			(net 43 "Net-(D36-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9d89ab42-8195-4780-87dd-445b6092638a")
+			(uuid "6be69823-6405-415f-bf2d-e480f11ca1b5")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -8601,7 +8601,7 @@
 			(net 43 "Net-(D36-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "9d89ab42-8195-4780-87dd-445b6092638a")
+			(uuid "154be0d1-1907-40f5-af23-2d8dac59b383")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -9808,7 +9808,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c852321f-9d5e-49f6-8299-254583606254")
+			(uuid "efd05a91-c876-4eb4-ad49-f7662a64d05c")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -9818,7 +9818,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c852321f-9d5e-49f6-8299-254583606254")
+			(uuid "17dbcfad-a8fe-40ad-841d-8abc814e1b91")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -9837,7 +9837,7 @@
 			(net 28 "Net-(D21-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dba46935-1905-4a38-81cd-c6e0140df70e")
+			(uuid "e5d0ed87-1cfd-49d9-9a5e-e0caaf09ad8b")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -9849,7 +9849,7 @@
 			(net 28 "Net-(D21-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "dba46935-1905-4a38-81cd-c6e0140df70e")
+			(uuid "179dc7cb-796c-4a2a-83a6-5d0b3919aa43")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -10594,7 +10594,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "75d720ef-ddf1-4481-ac0e-42c509b7af1a")
+			(uuid "26d71001-5029-437b-b6c3-8adc1e01450e")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -10604,7 +10604,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "75d720ef-ddf1-4481-ac0e-42c509b7af1a")
+			(uuid "279f6dac-6e95-4bdf-a717-5bc229c9fa83")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -10623,7 +10623,7 @@
 			(net 15 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "135ac1fa-48aa-4938-92f0-4c1ba5b70632")
+			(uuid "0d1b89e2-8d7b-40bc-827d-9b2a1c36a0fb")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -10635,7 +10635,7 @@
 			(net 15 "Net-(D8-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "135ac1fa-48aa-4938-92f0-4c1ba5b70632")
+			(uuid "bf554eb4-cea4-4ba0-b05f-ddde352b56c4")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -11842,7 +11842,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e262dd54-deee-405e-b1c2-facae2f9fc2e")
+			(uuid "33fa0897-0755-4e7c-953a-4979547f1b6e")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -11852,7 +11852,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e262dd54-deee-405e-b1c2-facae2f9fc2e")
+			(uuid "9a260017-2c4f-482b-b947-436b26cadbaf")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -11871,7 +11871,7 @@
 			(net 29 "Net-(D22-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "18d46c7a-c497-4c02-aeb8-1dfcfba44c6e")
+			(uuid "06f82276-d12e-4dc4-847c-3b3ff65aa5c1")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -11883,7 +11883,7 @@
 			(net 29 "Net-(D22-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "18d46c7a-c497-4c02-aeb8-1dfcfba44c6e")
+			(uuid "021ab2e2-f485-40b6-a97b-7fa4cea1c94c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -14711,7 +14711,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e981bb93-426a-425a-8340-214970795798")
+			(uuid "57d3d845-a14c-439b-a24f-c299f4b1d58c")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -14721,7 +14721,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e981bb93-426a-425a-8340-214970795798")
+			(uuid "8d6ea96c-0a94-4516-9ed0-409db258b837")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -14740,7 +14740,7 @@
 			(net 47 "Net-(D40-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77ff84a4-fdc7-4acc-9db8-f846196a02d6")
+			(uuid "e2ceac00-2402-43ae-8ff5-2b09b3892411")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -14752,7 +14752,7 @@
 			(net 47 "Net-(D40-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77ff84a4-fdc7-4acc-9db8-f846196a02d6")
+			(uuid "e03c98c2-6869-4c1e-abf0-ece4cf9cc399")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -15813,7 +15813,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "1da29b81-5a8e-4003-8177-de63cacfb8d2")
+			(uuid "8e1dfdd8-1956-47e0-801c-d271ebdd5ee7")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -15823,7 +15823,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "1da29b81-5a8e-4003-8177-de63cacfb8d2")
+			(uuid "83bdcca0-2fcc-4c2a-9d82-5fa95b5bef30")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -15842,7 +15842,7 @@
 			(net 18 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "426aba61-0403-4249-826e-142e37c0adda")
+			(uuid "0ef3c7d1-3aba-4041-b189-0e9347fa9ff6")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -15854,7 +15854,7 @@
 			(net 18 "Net-(D11-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "426aba61-0403-4249-826e-142e37c0adda")
+			(uuid "a1ebcdc7-28e0-434d-b0cb-5cdb3e8c1eb3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -16745,7 +16745,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ae5a2dac-5d65-47e0-bdf2-c071e36f9c08")
+			(uuid "d17c8ebb-65c8-4fbe-8822-cb2865a9ad82")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -16755,7 +16755,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ae5a2dac-5d65-47e0-bdf2-c071e36f9c08")
+			(uuid "52f18f57-9604-49be-a167-e910fd5dd79f")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -16774,7 +16774,7 @@
 			(net 41 "Net-(D34-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1dba19b7-1da9-415a-a3a1-1df5df5a7da7")
+			(uuid "a6e9b217-4990-4713-aa6f-d880a159460f")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -16786,7 +16786,7 @@
 			(net 41 "Net-(D34-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "1dba19b7-1da9-415a-a3a1-1df5df5a7da7")
+			(uuid "6fbae77b-a26b-48c6-b717-c436e2a72363")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -17847,7 +17847,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3bc33e72-1020-42b7-a2d7-050b0306102a")
+			(uuid "8978ccb6-589a-4f80-9f33-e1aac8b90de4")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -17857,7 +17857,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3bc33e72-1020-42b7-a2d7-050b0306102a")
+			(uuid "ebfe345c-430f-4952-93c5-21c6e5b773b2")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -17876,7 +17876,7 @@
 			(net 22 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a9085277-2711-4844-b94c-9ad2abc22160")
+			(uuid "498dd45e-08be-4f29-8440-7167a88ef80b")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -17888,7 +17888,7 @@
 			(net 22 "Net-(D15-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "a9085277-2711-4844-b94c-9ad2abc22160")
+			(uuid "70d0210c-b04e-4707-9d4f-dcc701f06707")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -19897,7 +19897,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "643e38fe-5661-4539-87ea-6f8aa8181983")
+			(uuid "94f4f872-9b44-482f-b79b-edd591bfedfc")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -19907,7 +19907,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "643e38fe-5661-4539-87ea-6f8aa8181983")
+			(uuid "cf5c5c79-f30e-44f2-a60a-4bbbfc1617ab")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -19926,7 +19926,7 @@
 			(net 31 "Net-(D24-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d0f390e0-e633-4392-84e7-70e78d8862e3")
+			(uuid "7f5bb011-3fa9-4e05-bec2-3f0a6f9e916f")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -19938,7 +19938,7 @@
 			(net 31 "Net-(D24-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d0f390e0-e633-4392-84e7-70e78d8862e3")
+			(uuid "655e7900-33f8-45c4-b519-f0292135fa9a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -20683,7 +20683,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d51e4f3f-bf35-41e2-b679-657aca041651")
+			(uuid "5d6f7ba2-0848-4a96-b03d-620ce49489f2")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -20693,7 +20693,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d51e4f3f-bf35-41e2-b679-657aca041651")
+			(uuid "47eed50c-d847-4711-b0a3-bb2ef0b9abbf")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -20712,7 +20712,7 @@
 			(net 16 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "84a3d1f0-12b7-4f0d-9a27-c8c94fe8db0c")
+			(uuid "2f0ce669-6be7-4d6d-a7f8-8ea5a230c16e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -20724,7 +20724,7 @@
 			(net 16 "Net-(D9-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "84a3d1f0-12b7-4f0d-9a27-c8c94fe8db0c")
+			(uuid "0c6b9a01-10cc-4b53-b3fc-3e19a372eb00")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -21291,7 +21291,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "296dc2d9-141a-4333-8d2d-155aa8a97d4a")
+			(uuid "f177d61a-a8e6-4a74-a54e-964eaefaac16")
 		)
 		(pad "2" smd rect
 			(at -3.15 -1.9 90)
@@ -21309,7 +21309,7 @@
 			(net 1 "Net-(BOOT1-Pad2)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "0b6778af-73de-4f98-b516-ba8730e4ec06")
+			(uuid "56e4f28d-56eb-4077-9c17-76b4664ea04b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
@@ -22043,7 +22043,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c8e060e7-828d-4d23-83cb-65763c1d2572")
+			(uuid "a085000c-616c-4888-bb7b-fc8cd6c99877")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -22053,7 +22053,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c8e060e7-828d-4d23-83cb-65763c1d2572")
+			(uuid "8247d27c-aba3-4775-82d9-2b733345d61e")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -22072,7 +22072,7 @@
 			(net 42 "Net-(D35-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "043bfaa3-a575-4eb3-be01-4a8b197767db")
+			(uuid "ade68d2b-fcfe-473b-a2aa-2f1ee8f0459f")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -22084,7 +22084,7 @@
 			(net 42 "Net-(D35-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "043bfaa3-a575-4eb3-be01-4a8b197767db")
+			(uuid "c72b841a-4ba2-47a1-be52-a1c9835f889b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -23145,7 +23145,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "83db4fd0-88ee-4c68-8c04-d7daaf8d4bfb")
+			(uuid "0ab8d255-82b5-402e-baf9-5850bc600423")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -23155,7 +23155,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "83db4fd0-88ee-4c68-8c04-d7daaf8d4bfb")
+			(uuid "280c6c19-2b34-4df9-ae3c-1952453b85d7")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -23174,7 +23174,7 @@
 			(net 44 "Net-(D37-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5d9a3ff1-7e8b-460c-8f4f-74637178507f")
+			(uuid "e87d4f15-43e7-4a38-912e-6dac7f65891f")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -23186,7 +23186,7 @@
 			(net 44 "Net-(D37-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "5d9a3ff1-7e8b-460c-8f4f-74637178507f")
+			(uuid "698ddf04-a286-4c92-9d7d-89db6664544c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -24563,7 +24563,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "4046c1fc-e8ff-4005-a8f4-640ee6fdbf8b")
+			(uuid "077b1025-683b-4f20-ada3-a95ef0f8e5b9")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -24573,7 +24573,7 @@
 			(net 69 "COL10")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "4046c1fc-e8ff-4005-a8f4-640ee6fdbf8b")
+			(uuid "756871f0-5589-4408-b03e-7f5a27603033")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -24592,7 +24592,7 @@
 			(net 30 "Net-(D23-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "3695271a-2b0e-451f-87c1-11a4164a6cb7")
+			(uuid "456fb60a-eca0-42d7-8ca8-30ba1012c9ef")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -24604,7 +24604,7 @@
 			(net 30 "Net-(D23-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "3695271a-2b0e-451f-87c1-11a4164a6cb7")
+			(uuid "13e9d706-f200-4d51-92de-bdac69172a0c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -27053,7 +27053,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "4033d661-e600-4baf-bb9e-1ff7aced111c")
+			(uuid "f13b3f0c-4126-4c60-a8b1-89e2164fc491")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -27063,7 +27063,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "4033d661-e600-4baf-bb9e-1ff7aced111c")
+			(uuid "0eadaff7-b068-4edb-b15e-6d2fd0619fee")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -27082,7 +27082,7 @@
 			(net 35 "Net-(D28-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e6eaaec8-2024-4892-80b5-391cda6d0724")
+			(uuid "8736e04f-a788-4e35-b946-9f6cd90edc42")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -27094,7 +27094,7 @@
 			(net 35 "Net-(D28-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e6eaaec8-2024-4892-80b5-391cda6d0724")
+			(uuid "c0727def-be7a-4041-a28b-40016352ed07")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -27839,7 +27839,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d3adb0af-e17e-4888-92d2-16279fc3cc0b")
+			(uuid "e1d91876-a332-4512-bd9c-4d5c07aa1af2")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -27849,7 +27849,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "d3adb0af-e17e-4888-92d2-16279fc3cc0b")
+			(uuid "c3e103ff-32fd-4a6c-a2cd-bc95f907861b")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -27868,7 +27868,7 @@
 			(net 8 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2f315e14-0482-4c58-8e6b-207ccc080e0a")
+			(uuid "0d669657-672d-4b7a-a9c7-34ca958c4b60")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -27880,7 +27880,7 @@
 			(net 8 "Net-(D1-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "2f315e14-0482-4c58-8e6b-207ccc080e0a")
+			(uuid "f2a8435a-75bc-426f-810b-33a00888a348")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -28622,7 +28622,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b3cd1a15-c60b-4e36-aba8-be7bbf1f0dfa")
+			(uuid "a3a625fd-e77c-4b36-90da-4e40735ab1ba")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -28632,7 +28632,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b3cd1a15-c60b-4e36-aba8-be7bbf1f0dfa")
+			(uuid "3687a58b-94a2-4077-95e0-070b5c3fc090")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -28651,7 +28651,7 @@
 			(net 50 "Net-(D43-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "de26c53e-c674-4181-b9d0-8c9f5d225d39")
+			(uuid "cf4d201b-fef5-4d5b-a982-97c6d7924cc1")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -28663,7 +28663,7 @@
 			(net 50 "Net-(D43-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "de26c53e-c674-4181-b9d0-8c9f5d225d39")
+			(uuid "9c1bf264-7f5d-4195-ab3b-c4911a891f56")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -29390,7 +29390,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
+			(uuid "7ac96a99-9579-4d1b-9f1b-354b9c9554a8")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -1.05)
@@ -29402,7 +29402,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
+			(uuid "e844afa1-10cb-4ef6-9e93-8f3f37b887a2")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 3.13)
@@ -29414,7 +29414,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
+			(uuid "21adb55a-8510-46a4-a0d3-cec575b3c396")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
@@ -30464,7 +30464,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8b3c5ec7-2805-48b6-b786-4faa3ddb43bf")
+			(uuid "2d9eb5cd-ae16-4b9e-bfb7-58b9cd251ae8")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -30474,7 +30474,7 @@
 			(net 70 "COL11")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8b3c5ec7-2805-48b6-b786-4faa3ddb43bf")
+			(uuid "5d9fda9d-87f4-4c3e-8554-c9a4439dc62b")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -30493,7 +30493,7 @@
 			(net 108 "Net-(D49-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8bcd6bf8-e2c0-41d5-923f-b5ffee6d18c7")
+			(uuid "179def11-c4b8-4dbf-9426-1fdbb462c373")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -30505,7 +30505,7 @@
 			(net 108 "Net-(D49-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8bcd6bf8-e2c0-41d5-923f-b5ffee6d18c7")
+			(uuid "bba9a8ad-ba0b-4dc5-b6df-e971429918f8")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -31250,7 +31250,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "2d6a79b0-f406-4cca-b2db-7c69ce6594fa")
+			(uuid "638af2a6-6de2-423c-a3a6-cec9d02d8ce2")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -31260,7 +31260,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "2d6a79b0-f406-4cca-b2db-7c69ce6594fa")
+			(uuid "5bba818b-e1fe-4643-9046-a72a128db45c")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -31279,7 +31279,7 @@
 			(net 23 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "015d9a6a-6abc-41d4-ad30-a87473877d88")
+			(uuid "b14669fc-e26d-4f5c-baba-437d376f081d")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -31291,7 +31291,7 @@
 			(net 23 "Net-(D16-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "015d9a6a-6abc-41d4-ad30-a87473877d88")
+			(uuid "0f4abf2b-a8a9-47fa-8d85-1d8d3e42240a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -33300,7 +33300,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "97033efb-73b0-4f83-add8-cb82fb21803c")
+			(uuid "4e57e29c-8928-4ce8-8eb7-6ef57b2bd1cf")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -33310,7 +33310,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "97033efb-73b0-4f83-add8-cb82fb21803c")
+			(uuid "1f305bdc-1b05-45e3-94aa-74c071bb3689")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -33329,7 +33329,7 @@
 			(net 52 "Net-(D45-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8e365a3a-a7b6-47f3-8d15-cf609c59096e")
+			(uuid "5f37bea3-57b6-448d-b8ba-e957b6737b50")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -33341,7 +33341,7 @@
 			(net 52 "Net-(D45-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "8e365a3a-a7b6-47f3-8d15-cf609c59096e")
+			(uuid "30509a78-6ab8-454b-861f-93e65c9d801c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -34231,7 +34231,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8a398854-809c-449b-ab64-1f61b6380b8e")
+			(uuid "c7d0a408-e88e-4107-9e52-c7caf3c22c07")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -34241,7 +34241,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "8a398854-809c-449b-ab64-1f61b6380b8e")
+			(uuid "ce67b010-02f7-4783-84ee-7e3981bc8c17")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -34260,7 +34260,7 @@
 			(net 49 "Net-(D42-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "02f11538-6ef2-4ce2-a23c-f20a27fc887c")
+			(uuid "43646a14-25e3-4600-9b9e-9e95eee03d72")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -34272,7 +34272,7 @@
 			(net 49 "Net-(D42-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "02f11538-6ef2-4ce2-a23c-f20a27fc887c")
+			(uuid "0425e668-dde4-4ebd-bdae-9906525a9389")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -35164,7 +35164,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ca8c0fa8-df84-47e2-b959-387f5b4b4bb4")
+			(uuid "78257e35-50d3-443b-a36e-4ffd9edef434")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -35174,7 +35174,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "ca8c0fa8-df84-47e2-b959-387f5b4b4bb4")
+			(uuid "374d3405-633d-4e7f-9a9d-6dde6377514a")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -35193,7 +35193,7 @@
 			(net 53 "Net-(D46-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "6db0d053-d55d-4beb-9f10-ca8b964e6b86")
+			(uuid "9ffce434-aa06-467e-8676-c3501e7be056")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -35205,7 +35205,7 @@
 			(net 53 "Net-(D46-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "6db0d053-d55d-4beb-9f10-ca8b964e6b86")
+			(uuid "947b0bfe-bc8a-490f-a2f1-75d62a43ba12")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -36582,7 +36582,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "96221c8a-23d9-4ddb-85f8-aaa2febfd0f9")
+			(uuid "3e69fb44-026c-429c-aed6-0d093855c1da")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -36592,7 +36592,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "96221c8a-23d9-4ddb-85f8-aaa2febfd0f9")
+			(uuid "4e50f783-f28b-48c0-b31a-0a14483d54a2")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -36611,7 +36611,7 @@
 			(net 34 "Net-(D27-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "836b4f12-5fbc-4268-8704-c605922232c6")
+			(uuid "7a11856c-ca98-4e70-ab2d-e62c40ccf65a")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -36623,7 +36623,7 @@
 			(net 34 "Net-(D27-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "836b4f12-5fbc-4268-8704-c605922232c6")
+			(uuid "86e68506-872e-43b2-9c06-2e2c50a4ae08")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -38095,7 +38095,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b264dd8a-2740-4670-b26d-58ce68d4ddc2")
+			(uuid "0abc1a9a-aa42-430e-8bb7-37fb035c299b")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -38105,7 +38105,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b264dd8a-2740-4670-b26d-58ce68d4ddc2")
+			(uuid "ac25bff6-0367-4570-8cfc-b90fe07a275f")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -38124,7 +38124,7 @@
 			(net 37 "Net-(D30-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4a7e7820-0c8b-4cbb-b326-03648451dd33")
+			(uuid "59253cd2-c210-4d44-8c8f-f9b5e5f8031e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -38136,7 +38136,7 @@
 			(net 37 "Net-(D30-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4a7e7820-0c8b-4cbb-b326-03648451dd33")
+			(uuid "342d0544-93ec-4c4a-aa08-4f5e64a430a3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -39397,7 +39397,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a412dc0e-5be7-4121-93d3-cfca6de227a5")
+			(uuid "41dd31e8-e27f-4b19-ad57-920fb930f068")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -39407,7 +39407,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "a412dc0e-5be7-4121-93d3-cfca6de227a5")
+			(uuid "9055d026-a248-40f2-a62d-277874130a73")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -39426,7 +39426,7 @@
 			(net 48 "Net-(D41-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c260a9e3-b62c-47c0-a0fa-53169bfd7187")
+			(uuid "cd2cfa2e-dde2-4af9-bf0a-d182e9f2e076")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -39438,7 +39438,7 @@
 			(net 48 "Net-(D41-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c260a9e3-b62c-47c0-a0fa-53169bfd7187")
+			(uuid "d023e1a7-dc09-4879-98bd-fffdb4ca8a88")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -40499,7 +40499,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "50d15452-b59c-4174-af57-19027ed864f5")
+			(uuid "566862f1-aef7-48d3-a953-81e1cd37e772")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -40509,7 +40509,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "50d15452-b59c-4174-af57-19027ed864f5")
+			(uuid "38175b9c-553e-457c-b132-5159266fe800")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -40528,7 +40528,7 @@
 			(net 33 "Net-(D26-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b29a2b80-88e5-41c6-9f41-e5c365cacdec")
+			(uuid "752bbc88-556f-4d98-8e81-33efb08f07c4")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -40540,7 +40540,7 @@
 			(net 33 "Net-(D26-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b29a2b80-88e5-41c6-9f41-e5c365cacdec")
+			(uuid "f1ccc4da-7698-42ea-8701-e617f94f77f3")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -42525,7 +42525,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "dff605af-66ab-42db-9118-85f81b5703e0")
+			(uuid "5eb48045-2ff2-40f1-b79d-dc622fa97e66")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -42535,7 +42535,7 @@
 			(net 64 "COL5")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "dff605af-66ab-42db-9118-85f81b5703e0")
+			(uuid "ec99b4ea-3c2a-4b21-8d31-b5a5eeb59333")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -42554,7 +42554,7 @@
 			(net 25 "Net-(D18-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "07ea0384-2507-4cd6-b768-73f7cab05cc0")
+			(uuid "4850622e-1050-4c2e-b857-0cb02ccaba92")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -42566,7 +42566,7 @@
 			(net 25 "Net-(D18-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "07ea0384-2507-4cd6-b768-73f7cab05cc0")
+			(uuid "310bb75a-37ad-4893-adc8-b530fce79899")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -43627,7 +43627,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5c32b899-35c2-43a4-ad96-831a7e87a262")
+			(uuid "93d0c1b4-8689-4e78-baba-a43ec42a0228")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -43637,7 +43637,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5c32b899-35c2-43a4-ad96-831a7e87a262")
+			(uuid "cf66fc96-abda-4eb6-94e7-1df7f751153b")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -43656,7 +43656,7 @@
 			(net 54 "Net-(D47-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "98bce00b-8454-45e8-8aee-59fb8bd30554")
+			(uuid "3eb2ddf0-79e4-4a7b-a7c1-72a0646e45c7")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -43668,7 +43668,7 @@
 			(net 54 "Net-(D47-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "98bce00b-8454-45e8-8aee-59fb8bd30554")
+			(uuid "4a000263-69b5-4b6d-bf72-3e29d9d63071")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -44729,7 +44729,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "29f335e0-0fa3-4436-80bd-70cba5b67809")
+			(uuid "20318a89-52d8-4aca-adaa-50f5aaf97b8d")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -44739,7 +44739,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "29f335e0-0fa3-4436-80bd-70cba5b67809")
+			(uuid "ec3aef1e-f0bc-4009-b91d-2e6fa84c5546")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -44758,7 +44758,7 @@
 			(net 21 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d3f57a6e-e468-47c2-ae45-2c99307f08b4")
+			(uuid "ccc34928-1beb-41b3-a86e-f9714d471a6e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -44770,7 +44770,7 @@
 			(net 21 "Net-(D14-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "d3f57a6e-e468-47c2-ae45-2c99307f08b4")
+			(uuid "28f7506d-dbfe-485f-a3e3-5de6a24f6fbb")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -45515,7 +45515,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "407e8f02-f474-4724-a8b5-667b50c8eb0a")
+			(uuid "a47b543e-066b-4606-8614-a932b888d60d")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -45525,7 +45525,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "407e8f02-f474-4724-a8b5-667b50c8eb0a")
+			(uuid "657d03ac-cee6-4bcb-a765-f719eb64aa53")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -45544,7 +45544,7 @@
 			(net 10 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c6e05f06-31ef-4836-8845-b26ae1511133")
+			(uuid "4b874c83-d783-4e85-a8d2-9822b052642e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -45556,7 +45556,7 @@
 			(net 10 "Net-(D3-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c6e05f06-31ef-4836-8845-b26ae1511133")
+			(uuid "f2057d62-d6de-4171-87bb-cdc43e0a2533")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -45987,7 +45987,7 @@
 			(size 1.2 1.8)
 			(layers "B.Cu" "B.Mask" "B.Paste")
 			(roundrect_rratio 0.208333)
-			(uuid "be59a539-714d-482d-a361-fbfb9b4e802e")
+			(uuid "15647a92-82fe-41f2-85c0-9e2f42ea0923")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_JST.3dshapes/JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal.step"
@@ -46689,7 +46689,7 @@
 			(net 2 "GND")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "f16c7d81-00ed-4674-84ad-b048d5dba0ed")
+			(uuid "91ff3bdc-72fc-4324-86d2-fcf67eb8319f")
 		)
 		(pad "2" smd rect
 			(at -3.15 -1.9 270)
@@ -46707,7 +46707,7 @@
 			(net 79 "RESET")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "26871b72-7851-4412-bd85-b45b6448e38a")
+			(uuid "5cde93cf-4b16-4878-a2d5-dad36525db3f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_SPST_TL3342.step"
@@ -47756,7 +47756,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0dd7d2ef-8fb1-4a21-ad86-9f32e042ff2d")
+			(uuid "1d23eab9-a983-41e1-892c-e173be139153")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -47766,7 +47766,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0dd7d2ef-8fb1-4a21-ad86-9f32e042ff2d")
+			(uuid "42bacbfa-3d40-4b9e-a0d4-4d4a9a9b09fd")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -47785,7 +47785,7 @@
 			(net 24 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "927324d1-a39c-4684-89e3-eb244a88a4ec")
+			(uuid "c80f7b36-879d-4513-be31-77591bcce6b2")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -47797,7 +47797,7 @@
 			(net 24 "Net-(D17-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "927324d1-a39c-4684-89e3-eb244a88a4ec")
+			(uuid "5671d621-90f9-4ec1-ae17-e819265c5c3f")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -49000,7 +49000,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c4f148ee-3b9b-431f-a1aa-259dfab47c4c")
+			(uuid "5cfbbfe3-c19b-4fd2-9db5-4f3bccb99a97")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -49010,7 +49010,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "c4f148ee-3b9b-431f-a1aa-259dfab47c4c")
+			(uuid "09cca489-2b61-43cc-b67f-7b25102ad884")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -49029,7 +49029,7 @@
 			(net 38 "Net-(D31-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4f1d2033-04de-4daa-8818-f4335d98d7d1")
+			(uuid "963a2fd0-2205-4c5e-91e5-b8b5a2ce61b6")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -49041,7 +49041,7 @@
 			(net 38 "Net-(D31-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "4f1d2033-04de-4daa-8818-f4335d98d7d1")
+			(uuid "87570bbd-cacf-42a2-8b4c-d5972596abbf")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -49786,7 +49786,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "45570933-f905-4023-bcd6-0e9c9cd5fe79")
+			(uuid "782e8e9a-0c58-4d56-92df-2800bca503f1")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -49796,7 +49796,7 @@
 			(net 61 "COL2")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "45570933-f905-4023-bcd6-0e9c9cd5fe79")
+			(uuid "b9a43f31-e7b2-4d17-ad92-c5c51b33e1cd")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -49815,7 +49815,7 @@
 			(net 46 "Net-(D39-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c89740d7-0d4c-43ce-a54b-54da1583a83b")
+			(uuid "e846b318-c783-46d3-87d5-4039efb61a18")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -49827,7 +49827,7 @@
 			(net 46 "Net-(D39-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "c89740d7-0d4c-43ce-a54b-54da1583a83b")
+			(uuid "6e8d72b3-91e9-4818-9a38-837e44cc0d3c")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -50572,7 +50572,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3e20fb97-2b62-4661-878e-93829d7abf16")
+			(uuid "2c0af440-f0da-4ae8-923a-6a08edc05b14")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -50582,7 +50582,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "3e20fb97-2b62-4661-878e-93829d7abf16")
+			(uuid "eb6e08b5-343c-45b6-8b30-7bbbd9314516")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -50601,7 +50601,7 @@
 			(net 45 "Net-(D38-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "16c755ba-fcba-45ef-9963-69114bc6bd8c")
+			(uuid "8fadedc1-2f52-4554-94bf-044333a3aee2")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -50613,7 +50613,7 @@
 			(net 45 "Net-(D38-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "16c755ba-fcba-45ef-9963-69114bc6bd8c")
+			(uuid "051ee044-e5c4-448d-b196-593a95346a85")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -51358,7 +51358,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6d68516a-753c-4f65-9d05-113398bf4d0b")
+			(uuid "c4a0f9e9-cc82-4cf7-8c26-ac2bd8282408")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -51368,7 +51368,7 @@
 			(net 67 "COL8")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "6d68516a-753c-4f65-9d05-113398bf4d0b")
+			(uuid "795b9f15-e96a-4df8-8a60-1929440b42fa")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -51387,7 +51387,7 @@
 			(net 40 "Net-(D33-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "06d07cb4-da0d-4730-b82b-07587ae56cde")
+			(uuid "fd9347a2-994e-42ec-b2a8-e58f7d243a9c")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -51399,7 +51399,7 @@
 			(net 40 "Net-(D33-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "06d07cb4-da0d-4730-b82b-07587ae56cde")
+			(uuid "7e8afaee-07d7-42a7-af51-91d28f18bec4")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -52144,7 +52144,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5073e03b-1c5b-42f2-a1d8-82ad63e5c5d4")
+			(uuid "dfc82a9b-8dca-4295-8a05-6039c3e1bf32")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -52154,7 +52154,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5073e03b-1c5b-42f2-a1d8-82ad63e5c5d4")
+			(uuid "2c8a9850-b3b1-484d-8064-43f0f0bbd09f")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -52173,7 +52173,7 @@
 			(net 14 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77acbd53-d1f3-4b14-af20-8c28f62b37c3")
+			(uuid "88fbccd2-435d-4465-ab77-eb50847372f5")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -52185,7 +52185,7 @@
 			(net 14 "Net-(D7-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "77acbd53-d1f3-4b14-af20-8c28f62b37c3")
+			(uuid "7407a936-3930-4fb2-8cb5-f58b0902bbd2")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -54948,7 +54948,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "051d63f5-e3ff-4149-8785-e521fe0ea974")
+			(uuid "d8c2d4e2-7380-4340-9a58-0cea7b863020")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -54958,7 +54958,7 @@
 			(net 66 "COL7")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "051d63f5-e3ff-4149-8785-e521fe0ea974")
+			(uuid "3317690a-9a49-4a53-8015-a5c8156797cd")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -54977,7 +54977,7 @@
 			(net 27 "Net-(D20-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "01a5ddc1-631a-47a0-87ad-4a7f339e9bad")
+			(uuid "c5140ae6-67fd-4ba7-9637-80c463a0601e")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -54989,7 +54989,7 @@
 			(net 27 "Net-(D20-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "01a5ddc1-631a-47a0-87ad-4a7f339e9bad")
+			(uuid "4331988a-6e7b-43da-a66d-6654c93b255b")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -56050,7 +56050,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5a1874d9-0d29-449e-92eb-31fefea14cdb")
+			(uuid "ac3457f4-827a-420e-a35b-ee9bdc476c6e")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -56060,7 +56060,7 @@
 			(net 62 "COL3")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5a1874d9-0d29-449e-92eb-31fefea14cdb")
+			(uuid "f07b4e16-847c-41d9-bf02-dbe0907c0096")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -56079,7 +56079,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7d33b557-1c05-4285-8864-d0a639449dd1")
+			(uuid "cf7c0e5d-1222-4ca0-94d6-5f94480cf6ab")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -56091,7 +56091,7 @@
 			(net 11 "Net-(D4-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "7d33b557-1c05-4285-8864-d0a639449dd1")
+			(uuid "682a32b0-9a48-4b7d-8578-31bc3d318474")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -57298,7 +57298,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0d0db943-3596-4ff8-9ef7-66c948693269")
+			(uuid "4f669fa5-e4ab-44ac-9b5e-ae0057d35949")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -57308,7 +57308,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "0d0db943-3596-4ff8-9ef7-66c948693269")
+			(uuid "a7e34931-5176-4ada-ae21-cbad49c222d4")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -57327,7 +57327,7 @@
 			(net 26 "Net-(D19-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "59951b74-9cb9-47de-a35d-0f236c2d05d1")
+			(uuid "d358c5ff-46d6-473f-bcf2-13151ea93f2a")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -57339,7 +57339,7 @@
 			(net 26 "Net-(D19-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "59951b74-9cb9-47de-a35d-0f236c2d05d1")
+			(uuid "f3d2b12a-068b-469a-ba75-3c8ccbb31267")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -58084,7 +58084,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5965c245-fa2a-430d-bf31-d762ec9394aa")
+			(uuid "4e0eadfc-91db-4b63-9e38-a5bd7ad20571")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -58094,7 +58094,7 @@
 			(net 63 "COL4")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "5965c245-fa2a-430d-bf31-d762ec9394aa")
+			(uuid "a3957f82-5516-424b-ab13-9646dff99cd2")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -58113,7 +58113,7 @@
 			(net 12 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e63363c7-64e4-47b4-8e58-cb3ceee51634")
+			(uuid "3d5f1eb1-4e66-49a2-968e-34bfbfdc1313")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -58125,7 +58125,7 @@
 			(net 12 "Net-(D5-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "e63363c7-64e4-47b4-8e58-cb3ceee51634")
+			(uuid "d2c2d159-6928-498b-a518-3f91474c9a92")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -59179,7 +59179,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e39b7ab5-10aa-49a8-9a6c-0895877fbf01")
+			(uuid "7b74c615-4e04-4c00-97a1-6e6b45343bae")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -59189,7 +59189,7 @@
 			(net 65 "COL6")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "e39b7ab5-10aa-49a8-9a6c-0895877fbf01")
+			(uuid "8abb6a59-3b03-4ca3-9fea-ba298f1becf8")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -59208,7 +59208,7 @@
 			(net 51 "Net-(D44-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b3b0eaf8-9adf-417b-b22a-4de8de5291b1")
+			(uuid "2146fc8f-dd52-4055-851a-ed0c1688e72d")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -59220,7 +59220,7 @@
 			(net 51 "Net-(D44-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "b3b0eaf8-9adf-417b-b22a-4de8de5291b1")
+			(uuid "282ee1bd-525f-48c2-8d69-bccdce72d868")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -60744,7 +60744,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "844a72f2-74a6-4d68-8a3b-bc2b76fec842")
+			(uuid "ddfbcb81-f978-47ca-9b2e-3b8a546fcecb")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75)
@@ -60754,7 +60754,7 @@
 			(net 59 "COL0")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "844a72f2-74a6-4d68-8a3b-bc2b76fec842")
+			(uuid "24e9ab45-8fa6-4da0-ab5a-59523dccc565")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95)
@@ -60773,7 +60773,7 @@
 			(net 32 "Net-(D25-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "bb7048f7-4ce0-4657-923a-d0b0165dbe18")
+			(uuid "6734e393-f94a-4593-a098-499c7dd2d00a")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95)
@@ -60785,7 +60785,7 @@
 			(net 32 "Net-(D25-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "bb7048f7-4ce0-4657-923a-d0b0165dbe18")
+			(uuid "2f31a96b-d444-438e-8880-2ce52d928d4a")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -61530,7 +61530,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "74c4e535-ac0a-4947-84c7-68b0db649ef9")
+			(uuid "6958936f-6c36-4ed2-9b77-e79d32037571")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -61540,7 +61540,7 @@
 			(net 68 "COL9")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "74c4e535-ac0a-4947-84c7-68b0db649ef9")
+			(uuid "a1a3014f-dce5-4c97-be18-a61bbfc58f4f")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -61559,7 +61559,7 @@
 			(net 17 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ad3472cc-df18-44df-9da4-a9a3800da2b8")
+			(uuid "f8bd14aa-6586-4dd2-b48f-12f8abbb93bc")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -61571,7 +61571,7 @@
 			(net 17 "Net-(D10-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "ad3472cc-df18-44df-9da4-a9a3800da2b8")
+			(uuid "0a20783b-9f9f-40a5-bdb5-8c55454f14c5")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"
@@ -62924,7 +62924,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b2ee3ec3-1514-4468-a257-a96113a473f1")
+			(uuid "bd1b8e3c-852e-43b0-84d9-e9a9740f07d3")
 		)
 		(pad "1" smd roundrect
 			(at 8.245 -3.75 180)
@@ -62934,7 +62934,7 @@
 			(net 60 "COL1")
 			(pinfunction "1")
 			(pintype "passive")
-			(uuid "b2ee3ec3-1514-4468-a257-a96113a473f1")
+			(uuid "42a1bab6-d35c-480b-990f-5dbe69da7412")
 		)
 		(pad "2" smd roundrect
 			(at -3.245 -5.95 180)
@@ -62953,7 +62953,7 @@
 			(net 9 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "130489f6-4a96-447f-b1cf-da7dc090543f")
+			(uuid "05b70bc2-2818-4872-afbf-594f5c3cab35")
 		)
 		(pad "2" thru_hole circle
 			(at 0 -5.95 180)
@@ -62965,7 +62965,7 @@
 			(net 9 "Net-(D2-A)")
 			(pinfunction "2")
 			(pintype "passive")
-			(uuid "130489f6-4a96-447f-b1cf-da7dc090543f")
+			(uuid "2583791a-8ad2-4169-82e7-32d0c3e88883")
 		)
 		(embedded_fonts no)
 		(model "${KICAD8_3RD_PARTY}/3dmodels/com_github_ebastler_marbastlib/HS_CPG135001S30_Choc.step"

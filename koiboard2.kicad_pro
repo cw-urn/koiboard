@@ -521,10 +521,10 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "C:/Users/tamas/Desktop/keyboard/x/",
+      "plot": "C:/Users/tamas/Desktop/koiboard/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "koiboard2.step",
+      "step": "koiboard22.step",
       "svg": "",
       "vrml": "koiboard2.wrl"
     },
