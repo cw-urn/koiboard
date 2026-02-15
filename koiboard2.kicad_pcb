@@ -29012,7 +29012,7 @@
 		(descr "USB Type-C receptacle for USB 2.0 and PD, http://www.krhro.com/uploads/soft/180320/1-1P320120243.pdf")
 		(tags "usb usb-c 2.0 pd")
 		(property "Reference" "J2"
-			(at 0 5.645 0)
+			(at 0 5.645 180)
 			(layer "B.SilkS")
 			(uuid "696d5ab1-d223-495f-ba0f-3ed1e42fa05c")
 			(effects
@@ -29024,7 +29024,7 @@
 			)
 		)
 		(property "Value" "USB_C_Receptacle_USB2.0_16P"
-			(at 0 -5.100001 0)
+			(at 0 -5.100001 180)
 			(layer "B.Fab")
 			(uuid "9b1bec2d-1117-49be-b817-f3161a2667bf")
 			(effects
@@ -29199,7 +29199,7 @@
 			(uuid "09d5be9a-dc4a-49a2-affc-7c497efd3e02")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 0)
+			(at 0 0 180)
 			(layer "B.Fab")
 			(uuid "516f348e-ccf8-4237-9010-5e6c6e137a37")
 			(effects
@@ -29390,7 +29390,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "7ac96a99-9579-4d1b-9f1b-354b9c9554a8")
+			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 -1.05)
@@ -29402,7 +29402,7 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "e844afa1-10cb-4ef6-9e93-8f3f37b887a2")
+			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
 		)
 		(pad "S1" thru_hole oval
 			(at 4.32 3.13)
@@ -29414,10 +29414,22 @@
 			(net 2 "GND")
 			(pinfunction "SHIELD")
 			(pintype "passive")
-			(uuid "21adb55a-8510-46a4-a0d3-cec575b3c396")
+			(uuid "9b9e57f5-ecc9-4a36-8104-7aa6d45b6a68")
 		)
 		(embedded_fonts no)
 		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_HRO_TYPE-C-31-M-12.step"
+			(hide yes)
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+		(model "${KICAD9_3DMODEL_DIR}/Connector_USB.3dshapes/USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal.step"
 			(offset
 				(xyz 0 0 0)
 			)
