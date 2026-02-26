@@ -123,22 +123,22 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.0,
-        "min_connection": 0.0,
-        "min_copper_edge_clearance": 0.5,
+        "min_clearance": 0.2,
+        "min_connection": 0.2,
+        "min_copper_edge_clearance": 0.2,
         "min_groove_width": 0.0,
-        "min_hole_clearance": 0.25,
+        "min_hole_clearance": 0.2,
         "min_hole_to_hole": 0.25,
         "min_microvia_diameter": 0.2,
         "min_microvia_drill": 0.1,
-        "min_resolved_spokes": 2,
+        "min_resolved_spokes": 1,
         "min_silk_clearance": 0.0,
-        "min_text_height": 0.8,
-        "min_text_thickness": 0.08,
+        "min_text_height": 1.0,
+        "min_text_thickness": 0.15,
         "min_through_hole_diameter": 0.3,
-        "min_track_width": 0.0,
+        "min_track_width": 0.2,
         "min_via_annular_width": 0.1,
-        "min_via_diameter": 0.5,
+        "min_via_diameter": 0.25,
         "solder_mask_to_copper_clearance": 0.005,
         "use_height_for_length_calcs": true
       },
@@ -445,7 +445,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "warning",
+      "pin_to_pin": "error",
       "power_pin_not_driven": "error",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
@@ -618,6 +618,12 @@
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
+        },
+        {
+          "group_by": false,
+          "label": "LCSC",
+          "name": "LCSC",
+          "show": false
         }
       ],
       "filter_string": "",
@@ -671,6 +677,30 @@
     [
       "afda3f71-c71d-4f4b-b67f-9a9176cc7989",
       "Root"
+    ],
+    [
+      "a91f7d42-7e58-49f4-b1da-44a7d34dc2c5",
+      "RP2040 microprocessor"
+    ],
+    [
+      "e38ebaba-c04c-462e-8b74-f9a4a78e1e7f",
+      "Crystal"
+    ],
+    [
+      "fbf8a65b-f951-4493-83e7-1c436756045f",
+      "Flash memory"
+    ],
+    [
+      "00081eb8-b689-4dd9-bab2-8d5a4a7abcd3",
+      "USB-C connector"
+    ],
+    [
+      "60d554b6-2f65-4447-b749-adad2c628f8d",
+      "Reset and boot buttons"
+    ],
+    [
+      "73c41418-195a-4730-a4d8-0e353444e494",
+      "Matrix"
     ]
   ],
   "text_variables": {}

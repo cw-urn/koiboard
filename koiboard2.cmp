@@ -1,0 +1,1123 @@
+Cmp-Mod V01 Created by PcbNew   date = 2026-02-25T23:56:19+0200
+
+BeginCmp
+TimeStamp = 019a53a3-28cb-47b1-b41f-f77965692e04
+Path = /eadb4f6d-d6bb-4d77-b03c-f3dddfb1c583
+Reference = H1;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 41b1cbac-53d7-4a57-b473-07953b3d2958
+Path = /82c6ae89-00ae-4a3a-a72e-17de675e3bdf
+Reference = H6;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 7bf86226-5850-4771-9e76-a3bac585ed29
+Path = /cfd69f7e-30e1-45bb-8cb6-1eaea77242b9
+Reference = H3;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 83b1e3c9-890a-45c4-80ee-c47b078e7a77
+Path = /ef22f5fd-914c-415f-8231-03e0bbfb99b6
+Reference = H4;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = a66fd87e-c27e-48ab-84ae-9ffd6703bac1
+Path = /31acb6b3-11fb-4d2a-9378-495b2aa7263c
+Reference = H2;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = df9d6b53-e7f0-4e1e-9ae6-2a0a4d2ee23c
+Path = /67e0f388-f49f-412c-8eb1-1bc36062b921
+Reference = H5;
+ValeurCmp = MountingHole;
+IdModule  = Library:MountingHole_3.2mm_M3_ISO14580;
+EndCmp
+
+BeginCmp
+TimeStamp = 0245910f-91db-4cb0-803f-b8795ddd48a6
+Path = /16339881-6f51-4837-8654-e61569a9eb99
+Reference = D26;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 03eade4a-45ba-4663-b242-84ef2ce52b4d
+Path = /887f9cb5-9e20-4739-9d43-1e53fd4e0406
+Reference = D44;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 04a132cd-d5c0-482d-b2e7-fc9998d25983
+Path = /395c518f-e620-4ac2-8aef-b3927590e363
+Reference = D32;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 0671126a-072f-4386-9bab-609dc48e68e1
+Path = /260da88e-c819-4e06-8412-5f7fbeaf14f6
+Reference = D6;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 06fb1313-ad27-4b10-9e58-390d29429fff
+Path = /21da3f15-d34d-42a1-b7d0-01c09560bcea
+Reference = U2;
+ValeurCmp = SRV05-4;
+IdModule  = Library:SOT-23-6-routable;
+EndCmp
+
+BeginCmp
+TimeStamp = 1242cad4-bd35-4f82-ab6b-e58b5a7c8fcf
+Path = /2b0bb1f1-d1b3-4372-9ffc-d51772113fa0
+Reference = SW29;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 16cf603f-d298-4d46-a091-402e65a6a8ac
+Path = /5402ffa8-6835-4676-90c7-4e73b1b6175f
+Reference = SW12;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 192e061a-b324-4fb1-b9b3-7dd31272ecba
+Path = /306ea8cd-a9bb-46ca-b08f-b154e614fea1
+Reference = SW48;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1994ad5c-b3e5-4389-8acc-61b8fca5ab04
+Path = /a5825c32-9c17-44f7-ba2b-f6e05d3f9970
+Reference = C14;
+ValeurCmp = 1u;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1a8c1b3a-1169-47fd-b545-e93e46613e1c
+Path = /e17aa5f3-70b7-40d0-a88b-871c01ac6b46
+Reference = SW13;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1a8eeb9c-9fcf-4c36-b866-2553c0aa1c07
+Path = /93d93a5e-d4a9-44c8-b935-65ccefce8088
+Reference = R8;
+ValeurCmp = 27;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1aab6309-c1cd-49be-949e-d81781bf6965
+Path = /15a98b10-95c9-4a6a-8976-27abda7c709a
+Reference = SW6;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1ad40d40-e7b7-4bc9-9b9b-1a9638634af2
+Path = /0ecc7692-588f-4c5f-ad57-7cd249c78404
+Reference = U1;
+ValeurCmp = XC6206PxxxMR;
+IdModule  = Library:SOT-23-3;
+EndCmp
+
+BeginCmp
+TimeStamp = 1c122a7f-8390-4131-951a-00abe4274bf1
+Path = /1e8a0a75-5826-4db2-a9cb-3398d5ae8482
+Reference = R3;
+ValeurCmp = 5.1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 1daae17e-89f3-45b5-b6f0-cb7028030748
+Path = /011c075a-5744-4212-915b-fce709c413a5
+Reference = SW32;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 1f871e5e-0ad0-40f4-8682-f96b31286503
+Path = /d8e22e7c-f022-4187-8622-193ec968fe9c
+Reference = SW36;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 213501b1-9971-4868-8284-5e489c3898f8
+Path = /9d721b08-16aa-4779-91a7-f0d3875bb206
+Reference = D33;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 214dfde2-729f-429a-aaa7-4b98e8b4c917
+Path = /ede059e6-328c-497c-829e-e6e0a85fbf64
+Reference = R2;
+ValeurCmp = 5.1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 21b4d21d-3ce9-474d-be63-6ebdf3e929c5
+Path = /6b157c06-b8aa-4837-94f4-be57ea460ce7
+Reference = SW21;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2865c6e5-2bcb-4a95-8fa7-76d00355b11c
+Path = /b5822782-a68a-4737-9adb-8c013044fa94
+Reference = SW8;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 29a88cd9-3f1f-4fff-9b47-92d1c500b48b
+Path = /af92b7bc-3ae8-4698-b5c0-b9d047a8336f
+Reference = C13;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a2abcde-debf-4ffa-90a1-361a2d2123e6
+Path = /6fa22d1e-9b7b-41ee-9976-d7059e739d7c
+Reference = D12;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 2a7c4ebc-bfc2-4e83-9fcf-b33027c782b5
+Path = /86f8c9ae-8f6e-4d75-8773-5cfb5f9177a7
+Reference = SW22;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 2b31dc05-91d7-4a37-85bd-45ea095d3e5e
+Path = /35aa1fad-47cb-49f2-9988-4213d6055b7b
+Reference = D19;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 2c769ae0-8d9b-40cf-a881-d209c07377c4
+Path = /7bea0a8e-9b7c-44e8-a8c2-7f1a8499182e
+Reference = D22;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 2d2ba86f-3356-4a68-9509-a875e8f0b835
+Path = /88338c76-d3fd-4615-9548-1eb6d59cdbff
+Reference = U3;
+ValeurCmp = RP2040;
+IdModule  = Library:QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 32328f70-466e-42af-8825-fd8fbfdeceff
+Path = /762fba4a-5638-4904-97f5-8d1f082fcc13
+Reference = D3;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 327a8c0f-acc6-492f-acc4-0a7d22fb5bf7
+Path = /547418e1-b6fa-488d-b69b-b0c6592e5333
+Reference = R4;
+ValeurCmp = 5.1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 32b35188-0acb-4c8a-a8f2-0a988a13885d
+Path = /375628c0-059d-468b-9822-c6bc75f1db50
+Reference = SW40;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 32c6f125-b234-4310-be8b-a314afa47416
+Path = /94210f4e-e05b-4c99-8c81-65b9a49cafcb
+Reference = D17;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 34d109d5-c89d-4145-a0b4-6a470a1eb830
+Path = /2dca6fce-952c-48fc-93f0-b6080c13bbd8
+Reference = SW11;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 350a7510-08eb-45fd-96ee-0e40e96c6ca9
+Path = /cbbb016d-bf76-4bc5-8e88-cc51c33c0d50
+Reference = C2;
+ValeurCmp = 1u;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 3897dfa3-0fca-4683-bf8c-9a8404c06bbf
+Path = /296a9b6b-9fce-47fc-b11b-b0cc9e6caeda
+Reference = SW34;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3df4b533-4cb4-4b92-9ec9-6051ef8ff3ef
+Path = /37c860c3-e751-49d8-b890-943f2041a69f
+Reference = D45;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 3e14785f-28c2-4415-a935-aed1594b712e
+Path = /368a66d9-c950-4b3e-96d8-a1dfb64ea35b
+Reference = SW15;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f121901-218e-4ee4-963d-d91562d27b84
+Path = /1c9d1f4f-5ba9-494d-9146-a999d03eeb28
+Reference = D1;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 3f7c8170-f558-4e0d-9ee9-caaa939505ca
+Path = /b9609455-6964-4125-bf79-3af8a2248a38
+Reference = D16;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 41f00f65-5af3-4c49-8048-8f24a8e22c8d
+Path = /c1922c9a-fc49-4b48-99e7-83d044dfae55
+Reference = D13;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 4276fb24-43e9-40f9-8954-0ca2b3afc80f
+Path = /452fee5a-f136-4b8a-a0c0-6ff8afd9ce92
+Reference = D37;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 48e0d23e-6cb5-4155-b3d8-7bb8e9399b98
+Path = /1a0a95de-11aa-41e1-bb39-e6e79fd87b09
+Reference = SW24;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4bad61f5-9f9f-480a-98fa-e41a6d9c0016
+Path = /e1d45197-4ef5-4c73-866d-fb6637363d56
+Reference = SW9;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4d309d60-dc03-4f54-a75c-5b13d2c8dd1f
+Path = /5da89380-df93-4110-b8f2-82422c36c55e
+Reference = BOOT1;
+ValeurCmp = SW_Push;
+IdModule  = Library:SW_SPST_TL3342;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e5f50ed-ec58-43d3-b733-35e681709444
+Path = /ac1950bd-cbe8-41a6-9a87-c89d22261a08
+Reference = SW35;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4e625a5c-f826-41d5-b5c0-c1285a04cb1f
+Path = /e9c25d52-a515-4466-8982-a3acd2a2c763
+Reference = D24;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 4f66fbab-7e1b-44f2-9041-66ff3529f1db
+Path = /fcf7a9ab-7a69-43df-a265-e9e8749f0335
+Reference = SW37;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 4fba90b4-3c10-4ea0-b401-f89204fe8679
+Path = /d623d081-a15e-4e0f-bb87-b97e9ea51b8e
+Reference = D2;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 53cd3073-3f20-4c5d-8542-1884af3010e4
+Path = /f109686f-d482-486c-b3a9-7173314ea74a
+Reference = D49;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 559ed5ef-db74-4e96-8527-a75b0193bad6
+Path = /ea0356c2-e9cd-4020-ab98-2c9d09be5a40
+Reference = SW23;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 55fc4500-8f5f-42e0-a5ce-53a48b7bf682
+Path = /a3a81100-6782-4e53-80de-17ba375cef70
+Reference = D36;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 56da521b-f488-4e2a-b18b-c957548d078a
+Path = /152149d1-7250-4e8e-be2d-a1699095c67a
+Reference = D47;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5add80c8-b60c-4729-80ad-a4539c796b5c
+Path = /33bbfa33-ad66-4268-90d1-bffb15bdc962
+Reference = R9;
+ValeurCmp = 1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 5c0de544-f906-427b-9df9-3c3db75216a1
+Path = /e044133a-5f30-4df7-8925-af65fe5fa180
+Reference = D35;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 5cc3f7fa-9f39-4c48-8027-b41dc47551e0
+Path = /788b3591-4f05-43e5-8fff-349c374a39ac
+Reference = R5;
+ValeurCmp = 5.1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 60cf83cd-36db-47d2-a892-0737e2d1fb1b
+Path = /37cd4292-0c43-4700-bc4f-36b25f9535b1
+Reference = C6;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 649a71f8-ec65-465b-b8a2-90103e74ef85
+Path = /28e3e0d1-0b72-47be-a102-3d84039ef969
+Reference = D8;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 67587dcc-4ef9-43cb-af92-f9b8ddc3e894
+Path = /19af7ff6-5611-4074-b6fc-8d9811bafbc2
+Reference = SW28;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 67598666-52b8-43ab-ae87-5dc2634de004
+Path = /8b30ba82-adda-496f-a59f-95b2b2b13801
+Reference = SW1;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6cd18280-3743-452d-8c7c-c7d54614f3c2
+Path = /6cdc0723-dc71-4360-9dc1-cd462140f0e2
+Reference = SW43;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 6e2c4642-34b4-48c4-a472-67de4efb025c
+Path = /46bedc4a-b4e9-4c3f-9759-0fc0a00c570f
+Reference = D9;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 6ef91815-dc3c-45f3-9ae1-2865f4ec7b13
+Path = /655773c7-78a3-427c-8ec0-1dab3a3eef09
+Reference = J2;
+ValeurCmp = USB_C_Receptacle_USB2.0_16P;
+IdModule  = Library:USB_C_Receptacle_HRO_TYPE-C-31-M-12;
+EndCmp
+
+BeginCmp
+TimeStamp = 72bcc6cd-114f-4032-8a5b-0ca5a1706b48
+Path = /a7b5d85d-b0b0-4007-b30e-b5ceb0a4d37c
+Reference = D34;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 73402bc4-290b-4afe-bc75-ead3db9126c8
+Path = /fe438ee0-9392-4929-a6bb-aeec63d39ee9
+Reference = SW49;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 739c1af0-090b-489a-89d9-bc19ea3b57ba
+Path = /e78f7a99-9c54-40fb-948a-05f90b3e4bd7
+Reference = SW16;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 754d0c97-1e7c-401f-b000-b79be9ef4a1f
+Path = /159b3e23-fcab-4a34-a7b8-328e7bbf5bef
+Reference = D48;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 7ced5650-8965-4608-99a1-7e0f819765c6
+Path = /fd4e7fe3-263c-4e87-aa4a-c01654dd7b32
+Reference = D20;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 7d17790f-ff46-44c6-b36c-906a958d3704
+Path = /33075f58-9e96-458a-8641-87fe82223b1e
+Reference = D11;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 7d3d2986-6d60-4f0c-a478-91331f4f47c8
+Path = /8f80cb55-9002-4d55-b662-27a7bb6a64d3
+Reference = D4;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 7e4c238b-4725-4a32-86f0-d7ac6c567a09
+Path = /b1e92049-9199-4c81-bf17-4c3c662a178f
+Reference = SW45;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 7f138fba-a320-428c-a023-133f295de14b
+Path = /c191edf8-6272-4d16-96bd-ad845db585bd
+Reference = C15;
+ValeurCmp = 33p;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 832af7e4-b23a-4b9a-a390-cafcf7a2ad34
+Path = /70e9cbb7-e29b-40a3-8fe4-9872e1e0d935
+Reference = SW42;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u_switch_hide;
+EndCmp
+
+BeginCmp
+TimeStamp = 896862d3-51b0-4c6c-b878-262ecdd16a7c
+Path = /739503ec-e369-4ab7-bf32-bb2f09d0f4d8
+Reference = C5;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 8a2f4fbd-c4b2-49eb-a39b-fffe33ec5233
+Path = /224ebd89-b2ba-4d2e-9d52-3778578f6567
+Reference = SW46;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 8af3ef62-5d51-4456-993d-9cc9840f723b
+Path = /83f793da-e06e-4d04-b350-c82896e18477
+Reference = D28;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 8ba82c1e-5421-48ca-aad1-0ecf334d1c0f
+Path = /69e3f3d1-38b7-49f1-9b6f-56827a35e2d9
+Reference = D39;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 8e6ab3a1-5823-44db-aaf2-f29d64fec353
+Path = /4a64c1d6-3dcc-40ec-8b0d-5149e4f6eb91
+Reference = SW27;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 936ecca5-631b-4735-b528-c2608f3618e9
+Path = /dde17387-64cc-4c77-b0dd-a356526ad18b
+Reference = D27;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = 96fe532b-ad47-4c86-b6bc-72ac6bec05a8
+Path = /22fdf319-f566-4548-8ab7-854794050918
+Reference = C16;
+ValeurCmp = 33p;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 98d05023-a82f-493d-9947-458d817a7ae2
+Path = /94fb4104-c11d-4b06-ae63-85b27e0cfd93
+Reference = J3;
+ValeurCmp = Conn_01x05;
+IdModule  = Library:PinHeader_1x05_P2.54mm_Vertical_No_3D_Header;
+EndCmp
+
+BeginCmp
+TimeStamp = 99076f76-5b6e-44b5-a5aa-acb8c223c685
+Path = /50e69192-ceb8-4c0f-a521-ae9ccb77f5a8
+Reference = SW30;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = 9a1ebe10-4cc9-443b-88d1-38ace8cd5520
+Path = /148d4533-4f14-469b-ac00-4370323b6aac
+Reference = U4;
+ValeurCmp = W25Q128JVS;
+IdModule  = Library:SOIC-8_5.3x5.3mm_P1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 9b878bdd-b3b8-4193-a1d9-6af554e4ff96
+Path = /c358c0e5-966b-4dba-963c-ab6485d2a12e
+Reference = R1;
+ValeurCmp = 5.1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = 9c5f863a-d071-4906-9782-4505542b9d27
+Path = /7b948f67-9eb2-4d20-9800-0f577e24aaa8
+Reference = SW41;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = a198c0d8-f782-40b7-b6c2-99417328a7c0
+Path = /600220b7-f6a7-409e-9f4a-1f6d0fd3ba4b
+Reference = D30;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = a20fca69-153a-43fc-8575-514e1fc1661c
+Path = /496ef616-a766-4c42-82ed-12325ae6dc88
+Reference = SW26;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = a33b64f9-f607-4877-8d56-ac6b4118d59e
+Path = /1652075b-a0dd-479d-a762-3b185870bc61
+Reference = D5;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = a3963e1c-7e64-4655-a072-75e83b293ccf
+Path = /c53fa67b-241f-4a52-8bf7-954b9369dcca
+Reference = C8;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = aa3f3ed1-4f3a-463b-bf3e-2c0404ec0c7c
+Path = /ddafe507-a94c-4296-83cb-2dc4907d5d1b
+Reference = D40;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = abaa0a95-acb0-4223-8174-0581a955fe64
+Path = /48f176c2-7a41-4fc3-a7b9-a72323543294
+Reference = D46;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = acba003d-f4ed-4e38-9969-e06df17f070b
+Path = /973aefb3-5f8e-4971-9b62-8d4b737856d7
+Reference = C9;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = adc32ec8-bc43-4d29-8787-eb045a239f44
+Path = /4fc163ee-4194-4742-9f3a-971edcb0c0da
+Reference = SW18;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = adcc1065-0f4f-4cb8-a9d7-bb308f4ad17f
+Path = /b29804cb-1d90-42c6-af88-8c1a936a1da3
+Reference = D18;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = af455e9d-da01-4030-a75e-7f94cdd4e621
+Path = /47e6f4f8-c5e4-4471-9b14-45f2abf9ae53
+Reference = SW47;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = affb3bac-be38-4e7c-8c01-20feae3a0fd8
+Path = /cc4c302f-36e9-44ae-ac94-2a70b15baf28
+Reference = D41;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = b2e13034-ddc5-46b8-b170-83f52402e6ad
+Path = /4e6b4c2b-c9c5-4946-8612-db41c3bca817
+Reference = SW14;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = b45d8aee-b414-49be-95b2-489198b11f93
+Path = /1c3e24b0-c5d5-4bca-9e0f-b52961f26daa
+Reference = SW3;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = b84915da-0026-4dff-9036-25452f271e25
+Path = /a2f1500c-143c-4c95-b399-6ed77ea5fc47
+Reference = J1;
+ValeurCmp = Conn_01x04;
+IdModule  = Library:JST_SH_SM04B-SRSS-TB_1x04-1MP_P1.00mm_Horizontal;
+EndCmp
+
+BeginCmp
+TimeStamp = b8f09eeb-3bad-48a0-ba27-cf978b273f04
+Path = /a44006e2-acd4-4eef-ae6f-401fe5b06edc
+Reference = F1;
+ValeurCmp = Fuse_Small;
+IdModule  = Library:Fuse_1206_3216Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bcde5e34-5a4c-4dbf-bbf0-17441ba8d76c
+Path = /10cec2c4-d8d4-4893-ab2c-a4fb39d7bd49
+Reference = RST1;
+ValeurCmp = SW_Push;
+IdModule  = Library:SW_SPST_TL3342;
+EndCmp
+
+BeginCmp
+TimeStamp = bd46f0e2-f89d-4e47-b403-6a2d4cb94172
+Path = /4e786641-98ac-4407-8c83-80c2ed543887
+Reference = Y1;
+ValeurCmp = Crystal_GND24;
+IdModule  = Library:Crystal_SMD_3225-4Pin_3.2x2.5mm;
+EndCmp
+
+BeginCmp
+TimeStamp = be20e7d7-f61b-4ca2-b8b1-fa665e365b1f
+Path = /33ae8ade-c79b-4f98-8b26-b5a18c703746
+Reference = C4;
+ValeurCmp = 1u;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = bfb4eb0a-81d0-4e76-b0f9-183c02ecb9a1
+Path = /f8f96765-6675-4a8e-ab11-6b7ee468747c
+Reference = SW17;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = c37ce4bb-6d96-46e8-9064-019c24c36aa5
+Path = /bbc49d17-232f-4040-9648-0613b3ffc674
+Reference = D43;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = c6942531-fd72-49d6-bfab-ae67b9b04243
+Path = /32f12506-b0d7-4a8a-8af3-fb7b2bc1719c
+Reference = C3;
+ValeurCmp = 10u;
+IdModule  = Library:C_0603_1608Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = c7e6829e-bab4-4349-a0bf-4dbce2d93c98
+Path = /b173c880-50e1-4470-b59c-8c226c64a945
+Reference = SW31;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = c83a1fa9-c9a0-4fc7-b502-0f8106aaa9f4
+Path = /9ea3c5a7-70dd-451a-b341-3fd6f29a4254
+Reference = SW39;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = cccb1a2e-1cb9-4d16-8dd3-d31658dc2cf0
+Path = /9e676b8b-6e40-426c-8d48-343cf7485855
+Reference = SW38;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = cfdd619c-b236-448d-94ba-d79238b53db9
+Path = /3d26eca0-711b-4684-8a07-2436962c7591
+Reference = SW33;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = d16bb1c3-fae2-45e2-8912-879ae3b553d6
+Path = /b991ea38-9922-439e-8c66-6d4808eeec5d
+Reference = SW7;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = d2bd29ae-4832-4d2f-937f-fade3bef5176
+Path = /91bb29c6-45bf-4cb5-8d10-8c793d9089d3
+Reference = C1;
+ValeurCmp = 1u;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d57a7ed6-28a5-4b5c-b410-59d80167cbef
+Path = /35fb53a7-99e3-4206-8135-ce699ce19e82
+Reference = C12;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = d649ae1a-8250-4f86-a8da-2953a72233df
+Path = /a3a8b241-aa19-4bbe-bb6b-de607160ecef
+Reference = D23;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = d7524d49-47bc-4a3c-ac14-b218bbaf5585
+Path = /e3f13d6a-21c5-4862-a4d2-4b8663aa5d09
+Reference = D25;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = dcb9db06-a627-4742-a6cf-2dfe8a2da101
+Path = /2b3c5e64-4a7e-46c4-9e59-724dd2ceed84
+Reference = C10;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = dccba2c4-e36e-42ec-9dfb-1d90d8d45d8c
+Path = /b5e3a27e-83a3-4f04-a581-aa56b1376291
+Reference = D29;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e05f59ae-15e4-4ee9-b45a-ed780d2c27fb
+Path = /dac0df9f-b76e-4b1e-b36a-8cf939036f76
+Reference = D31;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e113df0e-1c52-4474-839f-6482331e9a64
+Path = /e6d009e2-9589-4862-b599-e3563f89864b
+Reference = D15;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e3d57738-fa2a-41aa-877e-576772e02fc3
+Path = /ad109016-cd65-4035-aae5-e88a113723ce
+Reference = SW20;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = e4c92775-6a77-45c2-8b3d-5962d39306bb
+Path = /d5d8b384-f9e7-4184-b7a5-7d3d40946543
+Reference = D21;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e65da888-6927-4f40-b30e-e7c8e208a840
+Path = /6abb8f37-f545-4d16-a348-63b7022f8b04
+Reference = SW4;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = e65f7d60-283c-4724-9ce3-6e10e5b151ff
+Path = /e9772462-5d0f-4a04-b52c-2abac15631c7
+Reference = C11;
+ValeurCmp = 1u;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = e6a32a0a-884e-4321-8108-ac716d6737f8
+Path = /859c4e7c-e753-4b50-9dc6-df895ce2f533
+Reference = D7;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e75618a0-8bdd-4ea6-bef2-d417a5fafaf2
+Path = /c67d5266-498e-4bd8-85d9-3d3c3e101c53
+Reference = SW19;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = e771ae9f-5a0e-4463-90da-20c5e0769d98
+Path = /e3b64106-fd36-44f8-aeaa-593dd43be93e
+Reference = SW5;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = e7cb4d66-791a-4073-9a6e-70f05d377b35
+Path = /c1b9ea91-043b-43cf-8c6e-15ca834281d7
+Reference = D42;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = e8421195-6428-484e-8bd1-cb9e671da038
+Path = /4e7b8874-bf60-44e5-a7ea-29a0ae2fed1e
+Reference = SW44;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u_switch_hide;
+EndCmp
+
+BeginCmp
+TimeStamp = ec429e35-f910-4814-9b6e-904f79f73e31
+Path = /a43a8a98-8863-43b5-b9d8-2eefafb2eebc
+Reference = R7;
+ValeurCmp = 27;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = ec81b0c9-0811-449c-95b1-f72f9dde5416
+Path = /54e754bc-ab74-4323-845c-02eb217968db
+Reference = D38;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = edac8af6-b6c5-4d0a-9839-6bab301829fd
+Path = /f59eccce-62b9-44ce-9474-79d3c1df8d30
+Reference = D10;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = eebb005f-fa9a-4bbb-b4ea-6ab87f392baa
+Path = /c175552c-986e-4669-9686-de5d852f328a
+Reference = SW25;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = f32796db-f7f2-4b0b-b0f5-c93e1a805278
+Path = /3c959611-1aca-4502-b93d-6776c964b9fa
+Reference = SW10;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+BeginCmp
+TimeStamp = f3475e79-819e-48b2-80b5-bf9abfd51489
+Path = /084c02db-9ce0-4ae1-b350-36a197520a03
+Reference = R6;
+ValeurCmp = 1k;
+IdModule  = Library:R_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = f904d55c-9266-48cf-bf4a-fe750017b9a8
+Path = /162b4f0c-d498-458f-8ea5-3dc320c5020b
+Reference = D14;
+ValeurCmp = D_Small;
+IdModule  = Library:D_SOD-123;
+EndCmp
+
+BeginCmp
+TimeStamp = fb1eed00-7128-4de2-b12c-952e4195dfb9
+Path = /aad43b25-b7e9-449b-8572-6b72ddfc7b1b
+Reference = C7;
+ValeurCmp = 100n;
+IdModule  = Library:C_0402_1005Metric;
+EndCmp
+
+BeginCmp
+TimeStamp = fbcee852-6271-4e12-b386-eeb3a5a9c498
+Path = /cdbd6f26-7914-4ff5-b50c-8939ffa8497f
+Reference = SW2;
+ValeurCmp = choc_v1_SW_HS;
+IdModule  = Library:SW_choc_v2_HS_CPG135001S30_1u;
+EndCmp
+
+EndListe
