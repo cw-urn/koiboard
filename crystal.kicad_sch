@@ -657,13 +657,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 102.87) (xy 160.02 102.87)
+			(xy 146.05 95.25) (xy 177.8 95.25)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "261e489d-e448-4405-8e20-82a055a96a7d")
+		(uuid "3e60b2fc-95a8-44c1-9685-9d4d128075c1")
 	)
 	(wire
 		(pts
@@ -707,7 +707,7 @@
 	)
 	(wire
 		(pts
-			(xy 165.1 102.87) (xy 168.91 102.87)
+			(xy 173.99 102.87) (xy 177.8 102.87)
 		)
 		(stroke
 			(width 0)
@@ -737,13 +737,13 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 95.25) (xy 168.91 95.25)
+			(xy 146.05 102.87) (xy 168.91 102.87)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "c84a9172-61ba-4a16-b2fd-649109f67072")
+		(uuid "cd404f8f-c6c3-440e-aeb4-8ede3ea1e4eb")
 	)
 	(wire
 		(pts
@@ -755,9 +755,19 @@
 		)
 		(uuid "fb8d3875-eb74-4a04-8582-067bb261c2f6")
 	)
+	(label "Y1 - R9"
+		(at 158.75 102.87 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "36b25043-6773-4321-85a1-1e82687ef959")
+	)
 	(global_label "XOUT"
 		(shape input)
-		(at 168.91 102.87 0)
+		(at 177.8 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -767,7 +777,7 @@
 		)
 		(uuid "125a1f9a-9b99-4031-9462-4dcef9f11325")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 176.7333 102.87 0)
+			(at 185.6233 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -779,7 +789,7 @@
 	)
 	(global_label "XIN"
 		(shape input)
-		(at 168.91 95.25 0)
+		(at 177.8 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -789,7 +799,7 @@
 		)
 		(uuid "fbfdc7fa-5484-4bb9-b8be-5fb50629944f")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 175.04 95.25 0)
+			(at 183.93 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -933,7 +943,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_Small")
-		(at 162.56 102.87 90)
+		(at 171.45 102.87 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -941,7 +951,7 @@
 		(dnp no)
 		(uuid "33bbfa33-ad66-4268-90d1-bffb15bdc962")
 		(property "Reference" "R9"
-			(at 162.56 105.664 90)
+			(at 171.45 105.664 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -949,7 +959,7 @@
 			)
 		)
 		(property "Value" "1k"
-			(at 162.56 108.204 90)
+			(at 171.45 108.204 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -957,7 +967,7 @@
 			)
 		)
 		(property "Footprint" "Library:R_0402_1005Metric"
-			(at 162.56 102.87 0)
+			(at 171.45 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -966,7 +976,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 162.56 102.87 0)
+			(at 171.45 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -975,7 +985,7 @@
 			)
 		)
 		(property "Description" "Resistor, small symbol"
-			(at 162.56 102.87 0)
+			(at 171.45 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
