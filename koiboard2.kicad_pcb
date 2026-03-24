@@ -371,7 +371,7 @@
 		(path "/eadb4f6d-d6bb-4d77-b03c-f3dddfb1c583")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
@@ -536,7 +536,7 @@
 		(path "/82c6ae89-00ae-4a3a-a72e-17de675e3bdf")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
@@ -701,7 +701,7 @@
 		(path "/cfd69f7e-30e1-45bb-8cb6-1eaea77242b9")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
@@ -866,7 +866,7 @@
 		(path "/ef22f5fd-914c-415f-8231-03e0bbfb99b6")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
@@ -1031,7 +1031,7 @@
 		(path "/31acb6b3-11fb-4d2a-9378-495b2aa7263c")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
@@ -1196,7 +1196,7 @@
 		(path "/67e0f388-f49f-412c-8eb1-1bc36062b921")
 		(sheetname "/")
 		(sheetfile "koiboard2.kicad_sch")
-		(attr exclude_from_pos_files)
+		(attr exclude_from_pos_files exclude_from_bom)
 		(fp_circle
 			(center 0 0)
 			(end 2.75 0)
