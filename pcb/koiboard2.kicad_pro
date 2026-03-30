@@ -475,7 +475,7 @@
       "pin_not_connected": "error",
       "pin_not_driven": "error",
       "pin_to_pin": "error",
-      "power_pin_not_driven": "error",
+      "power_pin_not_driven": "ignore",
       "same_local_global_label": "warning",
       "similar_label_and_power": "warning",
       "similar_labels": "warning",
@@ -553,7 +553,7 @@
       "plot": "C:/Users/tamas/Desktop/koiboard/production/",
       "pos_files": "C:/Users/tamas/Desktop/koiboard/production/",
       "specctra_dsn": "",
-      "step": "koiboard222.step",
+      "step": "koiboard2222.step",
       "svg": "",
       "vrml": "koiboard2.wrl"
     },
