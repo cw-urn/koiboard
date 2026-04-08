@@ -12,19 +12,19 @@
 ## PCB
 
 ### Layer 1
-<img src="assets/pcb layer 1.png" alt="3D render" width="600"/>
+<img src="assets/pcb layer 1.png" alt="Layer 1" width="600"/>
 
 ### Layer 2
-<img src="assets/pcb layer 2.png" alt="3D render" width="600"/>
+<img src="assets/pcb layer 2.png" alt="Layer 2" width="600"/>
 
 ### Layer 3
-<img src="assets/pcb layer 3.png" alt="3D render" width="600"/>
+<img src="assets/pcb layer 3.png" alt="Layer 3" width="600"/>
 
 ### Layer 4
-<img src="assets/pcb layer 4.png" alt="3D render" width="600"/>
+<img src="assets/pcb layer 4.png" alt="Layer 4" width="600"/>
 
 ### 3D render
-<img src="assets/pcb 3d render.png" alt="3D render" width="600"/>
+<img src="assets/pcb 3d render.png" alt="3D render 2" width="600"/>
 
 ### Schematic
 This is split up into multiple pages. Check pcb/exports/koiboard.pdf!
