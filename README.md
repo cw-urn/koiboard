@@ -10,6 +10,7 @@
 <img src="assets/final.png" alt="3D render" width="600"/>
 
 ## PCB
+[Open online PCB viewer](https://kicanvas.org/?repo=https%3A%2F%2Fgithub.com%2Fcw-urn%2Fkoiboard%2Ftree%2Fmain%2Fpcb)
 
 ### Layer 1
 <img src="assets/pcb layer 1.png" alt="Layer 1" width="600"/>
@@ -17,19 +18,16 @@
 ### Layer 2
 <img src="assets/pcb layer 2.png" alt="Layer 2" width="600"/>
 
-### Layer 3
-<img src="assets/pcb layer 3.png" alt="Layer 3" width="600"/>
-
-### Layer 4
-<img src="assets/pcb layer 4.png" alt="Layer 4" width="600"/>
-
 ### 3D render
-<img src="assets/pcb 3d render.png" alt="3D render 2" width="600"/>
+<img src="assets/pcb 3D render.png" alt="3D render 2" width="600"/>
 
 ### Schematic
 This is split up into multiple pages. Check pcb/exports/koiboard.pdf!
 
-## BOM
+## PCB BOM
+
+<img src="assets/jlcpcb.png" alt="JLCPCB cart" width="600"/>
+
 | Designator | Quantity | Value | LCSC Part # | JLCPCB Link |
 | :---: | :---: | :---: | :---: | :---: |
 | BOOT1, RST1 | 2 | - | C455262 | [Link](https://jlcpcb.com/partdetail/XUNPU-TS_1087S01526/C455262) |
