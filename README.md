@@ -6,6 +6,12 @@
 > Why did I make this?
 - Honestly, I saw the simplicity of the [XYZ Work Board](https://worklouder.cc/xyz-work-board-2), plus other boards, and thought I could make it myself.
 
+<hr>
+
+<img src="assets/webp/IMG_0430.webp" alt="Final build" width="800"/>
+
+<hr>
+
 ## 3D render
 <img src="assets/final.png" alt="3D render" width="600"/>
 
@@ -18,11 +24,29 @@
 ### Layer 2
 <img src="assets/pcb layer 2.png" alt="Layer 2" width="600"/>
 
-### 3D render
-<img src="assets/pcb 3D render.png" alt="3D render 2" width="600"/>
+### PCB 3D render
+<img src="assets/pcb 3D render.png" alt="3D render of PCB" width="600"/>
+
+### Final PCB
+<img src="assets/webp/IMG_0448.webp" alt="Final PCB" width="600"/>
 
 ### Schematic
 This is split up into multiple pages. Check pcb/exports/koiboard.pdf!
+
+## Gallery
+<img src="assets/webp/IMG_0431.webp" alt="Final PCB" width="800"/>
+
+<img src="assets/webp/IMG_0429.webp" alt="Final PCB" width="800"/>
+
+<img src="assets/webp/IMG_0436.webp" alt="Final PCB" width="800"/>
+
+<img src="assets/webp/IMG_0443.webp" alt="Final PCB" width="800"/>
+
+<img src="assets/webp/IMG_0449.webp" alt="Final PCB" width="800"/>
+
+<img src="assets/webp/IMG_0456.webp" alt="Final PCB" width="800"/>
+
+More images in assets/webp!!!
 
 ## PCB BOM
 
